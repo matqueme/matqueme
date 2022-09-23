@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning React and NodeJS
 - 💞️ I’m looking to collaborate on website
-- 📫 How to reach me mail : mathisquemener@gmail.com
+- 📫 How to reach me mail : mathis.quemener@gmail.com
 
 <!---
 matqueme/matqueme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
