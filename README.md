@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-         Hello, Je suis <a href="http://mathis.quemener.go.yo.fr/" target="_blank" rel="noreferrer">Mathis</a> 👋
+         Hello, Je suis Mathis 👋
 </h3>
 
 <h3 align="center">
