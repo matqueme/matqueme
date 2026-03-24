@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ryvaals.com">
+  <a href="https://ryvaals.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-ryvaals.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
