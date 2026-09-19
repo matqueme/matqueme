@@ -84,7 +84,7 @@ Développeur Full-Stack avec une forte passion pour l'intelligence artificielle 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matqueme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages principaux" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matqueme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages principaux" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=matqueme&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
