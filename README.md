@@ -90,7 +90,7 @@ Développeur Full-Stack avec une forte passion pour l'intelligence artificielle 
 
 ---
 
-### 📫 Contact & Collaboration
+### 📫 Contact & Projets
 
 <div align="center">
 
