@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.studio-qm.fr/" target="_blank" rel="noreferrer">
+  <a href="https://www.ryvaals.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/101797214/214523147-d3ecfaab-7524-45dc-9273-f3c36ca97c20.png" alt="Bannière Studio QM" width="100%" />
   </a>
 </p>
@@ -94,7 +94,7 @@ Développeur Full-Stack avec une forte passion pour l'intelligence artificielle 
 
 <div align="center">
 
-**💬 Discutons de vos projets ou discutez avec moi !**
+**💬 Découvrez moi et mes projets !**
 
 <p>
   <a href="https://www.studio-qm.fr/" target="_blank">
@@ -104,8 +104,6 @@ Développeur Full-Stack avec une forte passion pour l'intelligence artificielle 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-**⚡ Réponse rapide** • **🤝 Ouvert aux collaborations** • **🎯 Missions freelance**
 
 </div>
 
