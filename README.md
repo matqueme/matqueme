@@ -97,6 +97,9 @@ Développeur Full-Stack avec une forte passion pour l'intelligence artificielle 
 **💬 Découvrez moi et mes projets !**
 
 <p>
+  <a href="https://www.ryvaals.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ryvaals-FF1493?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.studio-qm.fr/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Studio_QM-FF1493?style=for-the-badge&logoColor=white" />
   </a>
